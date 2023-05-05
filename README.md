@@ -1,10 +1,14 @@
-# ant-color-panel 🖥
+> 该组件抽离自[antd-token-previewer](https://github.com/ant-design/antd-token-previewer)，将会与其保持代码同步
 
 ![Demo](./src/demo.png)
 
 ## Install
 
 ```bash
+npm i antd-token-previewer
+# or
+yarn add ant-color-panel
+# or
 pnpm install ant-color-panel
 ```
 

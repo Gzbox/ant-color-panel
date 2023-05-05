@@ -1,3 +1,1 @@
-# Color Panel
-
-<code src="./examples/color-panel.tsx"></code>
+<embed src="../README.md"></embed>

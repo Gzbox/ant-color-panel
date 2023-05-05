@@ -14,7 +14,7 @@
     "skipLibCheck": true,
     "declaration": true,
     "paths": {
-      "ant-color-panel": ["src/index.tsx"]
+      "antd-token-previewer": ["src/index.tsx"]
     }
   }
 }

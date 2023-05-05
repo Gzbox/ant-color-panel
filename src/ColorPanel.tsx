@@ -13,9 +13,9 @@ const { useToken } = theme;
 const useStyle = makeStyle('ColorPanel', (token) => ({
   '.color-panel': {
     padding: 12,
-    backgroundColor: '#fff',
+    backgroundColor: token.colorBgElevated,
     borderRadius: 12,
-    border: '1px solid rgba(0, 0, 0, 0.06)',
+    border: `1px solid ${token.colorSplit}`,
     boxShadow: token.boxShadow,
     width: 224,
     boxSizing: 'border-box',

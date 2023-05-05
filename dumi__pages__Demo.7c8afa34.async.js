@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkant_color_panel=self.webpackChunkant_color_panel||[]).push([[448],{98532:function(f,n,e){e.r(n),e.d(n,{default:function(){return u}});var a=e(56191),t=e(79685),r=function(){var d=(0,a.UO)(),m=d.id,s=(0,a.WF)(),c=s.demos,l=c[m]||{},o=l.component;return o&&(0,t.createElement)(o)},u=r}}]);

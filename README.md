@@ -1,4 +1,4 @@
-> 该组件抽离自[antd-token-previewer](https://github.com/ant-design/antd-token-previewer)，将会与其保持代码同步
+> 该组件抽离自[antd-token-previewer](https://github.com/ant-design/antd-token-previewer/blob/master/src/ColorPanel.tsx)，将会与其保持代码同步
 
 ![Demo](./src/demo.png)
 

@@ -1,4 +1,6 @@
-> 该组件抽离自[antd-token-previewer](https://github.com/ant-design/antd-token-previewer/blob/master/src/ColorPanel.tsx)，将会与其保持代码同步
+## Ant Design UI 库已提供[该组件](https://ant.design/components/color-picker-cn)，该代码不再更新
+
+> 该组件抽离自[antd-token-previewer](https://github.com/ant-design/antd-token-previewer/blob/master/src/ColorPanel.tsx)
 
 ![Demo](./src/demo.png)
 
